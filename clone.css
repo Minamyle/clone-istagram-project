@@ -1,0 +1,61 @@
+.side-bar{
+    list-style: none;
+    
+}
+.first-side{
+    /* border: solid; */
+    box-shadow: 1px 1px 1px;
+    width: 15%;
+    height: 100vh;
+    padding: auto;
+    position: fixed;
+}
+
+.instagram{
+    display: flex;
+}
+
+.stories-side{
+    margin-left: 350px;
+    padding: auto;
+
+    
+}
+
+.stories{
+    /* border: solid;     */
+    box-shadow: 1px 1px 1px;
+    border-radius: 5px;
+    display: flex ;
+    gap: 10px;
+    font-size: 10px;
+    text-align: center;
+    padding: 10px;
+    
+
+}
+
+.img-side{
+    text-align: center;
+
+    
+    border: solid;
+    box-shadow: rgb(224, 26, 26);
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+    justify-content: space-between;
+    object-fit: cover;
+
+}
+    
+
+.comments-section{
+    display: flex;
+    justify-content:space-between;
+    border: 1px solid black;
+}
+ .p2{
+    color:rgb(0, 0, 255) ;
+
+}
